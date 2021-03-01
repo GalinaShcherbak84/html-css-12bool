@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-general{
+    width: 700px;
+    height: 700px;
+    padding: 50px;
+    background-color: black;
+    margin:0 auto;
+}
+[class*="col-"]{
+    background-color: yellow;
+    height: 50px;
+}

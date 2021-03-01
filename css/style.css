@@ -14,3 +14,12 @@
     background-color: yellow;
     height: 50px;
 }
+.middle-height{
+    height: 25px;
+    background-color:orange;
+}
+.middle-height1{
+    height: 25px;
+    background-color:orange;
+    margin-top: 25px;
+}
